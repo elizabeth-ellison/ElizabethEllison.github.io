@@ -15,57 +15,57 @@ Goldberg, D N. <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing
 
 
 
-Goldberg D N, D M Holland and C Schoof (2009), Grounding line movement and ice shelf buttressing in marine ice sheets. J. Geophys. Res, 114, F04026, doi:10.1029/2008JF001227.
+**Goldberg D N**, D M Holland and C Schoof (2009), Grounding line movement and ice shelf buttressing in marine ice sheets. J. Geophys. Res, 114, F04026, doi:10.1029/2008JF001227.
 
-Goldberg, D N (2011). A variationally-derived, depth-integrated approximation to the Blatter/Pattyn balance. J. of Glaciology, 57, 157-170.
+**Goldberg, D N** (2011). A variationally-derived, depth-integrated approximation to the Blatter/Pattyn balance. J. of Glaciology, 57, 157-170.
 
-Goldberg, D N and O. V. Sergienko (2011). Data assimilation using a hybrid flow model. The Cryosphere, 5, 1-13.
+**Goldberg, D N** and O. V. Sergienko (2011). Data assimilation using a hybrid flow model. The Cryosphere, 5, 1-13.
 
-Morrison, J and D N Goldberg (2012). A brief study of the force balance between a small iceberg, the ocean, sea ice, and atmosphere in the Weddell Sea. Cold Regions Science and Technology, Vol 76-77. doi:10.1016/j.coldregions.2011.10.014
+Morrison, J and **D N Goldberg** (2012). A brief study of the force balance between a small iceberg, the ocean, sea ice, and atmosphere in the Weddell Sea. Cold Regions Science and Technology, Vol 76-77. doi:10.1016/j.coldregions.2011.10.014
 
-Little, C M and D N Goldberg and A Gnanadesikan and M Oppenheimer (2012). On the coupled response to ice-shelf basal melting. J. of Glaciology, 58 (208), pp. 203-215
+Little, C M, **D N Goldberg**, A Gnanadesikan and M Oppenheimer (2012). On the coupled response to ice-shelf basal melting. J. of Glaciology, 58 (208), pp. 203-215
 
 Pattyn, F. and others (2012). Results of the Marine Ice Sheet Model Intercomparison Project, MISMIP. The Cryosphere, 6, pp. 573-588
 
-Goldberg, D N and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 1: Model description and behavior. J. Geophys. Res., 117, F02037.
+**Goldberg, D N** and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 1: Model description and behavior. J. Geophys. Res., 117, F02037.
 
-Goldberg, D N and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 2: Sensitivity to external forcings. J. Geophys. Res., 117, F02038.
+**Goldberg, D N** and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 2: Sensitivity to external forcings. J. Geophys. Res., 117, F02038.
 
 Pattyn, F. and others. Grounding-line migration in plan-view marine ice-sheet models: results of the ice2sea MISMIP3d intercomparison. Accepted for publication in  Journal of Glaciology (2013).
 
-Sergienko, O V and D N Goldberg and C M Little. Alternative ice-shelf equilibria determined by ocean environment. Accepted for publication in Journal of Geophysical Research – Earth Surface (2013).
+Sergienko, O V and **D N Goldberg** and C M Little. Alternative ice-shelf equilibria determined by ocean environment. Accepted for publication in Journal of Geophysical Research – Earth Surface (2013).
 
-Goldberg, D N and P Heimbach. Parameter and state estimation with a time-dependent adjoint marine ice sheet model. The Cryosphere, 7, 1659-1678 (2013)
+**Goldberg, D N** and P Heimbach. Parameter and state estimation with a time-dependent adjoint marine ice sheet model. The Cryosphere, 7, 1659-1678 (2013)
 
-Goldberg, D. N., C. Schoof, and O. V. Sergienko (2014), Stick-slip motion of an Antarctic Ice Stream: The eﬀects of viscoelasticity,J. Geophys. Res. Earth Surf., 119, doi:10.1002/2014JF003132.
+**Goldberg, D. N.**, C. Schoof, and O. V. Sergienko (2014), Stick-slip motion of an Antarctic Ice Stream: The eﬀects of viscoelasticity,J. Geophys. Res. Earth Surf., 119, doi:10.1002/2014JF003132.
 
-Cowton, T., D. Slater, A. Sole, D. Goldberg, and P. Nienow (2015), Modeling the impact of glacial runoff on fjord circulation and submarine melt rate using a new subgrid-scale parameterization for glacial plumes, J. Geophys. Res. Oceans, 120, 796–812
+Cowton, T., D. Slater, A. Sole, **D. N. Goldberg**, and P. Nienow (2015), Modeling the impact of glacial runoff on fjord circulation and submarine melt rate using a new subgrid-scale parameterization for glacial plumes, J. Geophys. Res. Oceans, 120, 796–812
 
-Slater, DA, PW Nienow, TR Cowton, D N Goldberg, and AJ Sole (2015), Effect of near-terminus subglacial hydrology on tidewater glacier submarine melt rates. Geophys. Res. Lett., 42, 2861–2868.
+Slater, DA, PW Nienow, TR Cowton, **D N Goldberg**, and AJ Sole (2015), Effect of near-terminus subglacial hydrology on tidewater glacier submarine melt rates. Geophys. Res. Lett., 42, 2861–2868.
 
-Andrew J. Tedstone, Peter W. Nienow, Noel Gourmelen, Amaury Dehecq, Daniel Goldberg and Edward Hanna (2015). Decadal slowdown of a land-terminating sector of the Greenland Ice Sheet despite warming. Nature 526, 692–695
+Andrew J. Tedstone, Peter W. Nienow, Noel Gourmelen, Amaury Dehecq, **Daniel Goldberg** and Edward Hanna (2015). Decadal slowdown of a land-terminating sector of the Greenland Ice Sheet despite warming. Nature 526, 692–695
 
 K Matsuoka and 19 others (2015). Antarctic ice rises and rumples: Their properties and significance for ice-sheet dynamics and evolution. Earth-Science Reviews, Volume 150, Pages 724–745.
 
-D. N. Goldberg, P. Heimbach, I. Joughin, and B. Smith (2015). Committed retreat of Smith, Pope, and Kohler Glaciers over the next 30 years inferred by transient model calibration. The Cryosphere 9, 2429-2446.
+**D. N. Goldberg**, P. Heimbach, I. Joughin, and B. Smith (2015). Committed retreat of Smith, Pope, and Kohler Glaciers over the next 30 years inferred by transient model calibration. The Cryosphere 9, 2429-2446.
 
-Goldberg, D., Narayanan, S. H. K., Hascoet, L. & Utke, J. (2016). An optimized treatment for algorithmic differentiation of an important glaciological fixed-point problem. Geosci. Model Dev., 9, 1891-1904.
+**Goldberg, D.**, Narayanan, S. H. K., Hascoet, L. & Utke, J. (2016). An optimized treatment for algorithmic differentiation of an important glaciological fixed-point problem. Geosci. Model Dev., 9, 1891-1904.
 
-Donald A. Slater, Dan N. Goldberg, Peter W. Nienow, and Tom R. Cowton. Scalings for Submarine Melting at Tidewater Glaciers from Buoyant Plume Theory. Journal of Physical Oceanography. 46, 6, p. 1839-1855, 2016
+Donald A. Slater, **Dan N. Goldberg**, Peter W. Nienow, and Tom R. Cowton. Scalings for Submarine Melting at Tidewater Glaciers from Buoyant Plume Theory. Journal of Physical Oceanography. 46, 6, p. 1839-1855, 2016
 
-Slater, D. A., P. W. Nienow, D. N. Goldberg, T. R. Cowton, and A. J. Sole (2017), A model for tidewater glacier undercutting by submarine melting, Geophys. Res. Lett., 44, 2360–2368, doi:10.1002/2016GL072374.
+Slater, D. A., P. W. Nienow, **D. N. Goldberg**, T. R. Cowton, and A. J. Sole (2017), A model for tidewater glacier undercutting by submarine melting, Geophys. Res. Lett., 44, 2360–2368, doi:10.1002/2016GL072374.
 
-Gourmelen, N., Goldberg, D. N., Snow, K., Henley, S. F., Bingham, R. G., Kimura, S., … van de Berg, W. J. (2017). channelized melting drives thinning under a rapidly melting Antarctic ice shelf. Geophysical Research Letters, 44, 9796–9804. https://doi.org/10.1002/2017GL074929
+Gourmelen, N., **Goldberg, D. N.**, Snow, K., Henley, S. F., Bingham, R. G., Kimura, S., … van de Berg, W. J. (2017). channelized melting drives thinning under a rapidly melting Antarctic ice shelf. Geophysical Research Letters, 44, 9796–9804. https://doi.org/10.1002/2017GL074929
 
-Snow, K, Goldberg D. N., Holland P.R., Jordan J. R., Arthern, R., and Jenkins, A. (2017) The response of ice sheets to climate variability. Accepted for publication in Geophysical Research Letters, 44(23), 11878-11885.
+Snow, K, **Goldberg D. N.**, Holland P.R., Jordan J. R., Arthern, R., and Jenkins, A. (2017) The response of ice sheets to climate variability. Accepted for publication in Geophysical Research Letters, 44(23), 11878-11885.
 
-Jordan, J. R., Holland, P. R., Goldberg, D., Snow, K., Arthern, R., Campin, J.-M., Heimbach, P. and Jenkins, A. (2018), Ocean-Forced Ice-Shelf Thinning in a Synchronously Coupled Ice-Ocean Model. J. Geophys. Res. Oceans, 123(2), 864-882. doi:10.1002/2017JC013251
+Jordan, J. R., Holland, P. R., **Goldberg, D.N.**, Snow, K., Arthern, R., Campin, J.-M., Heimbach, P. and Jenkins, A. (2018), Ocean-Forced Ice-Shelf Thinning in a Synchronously Coupled Ice-Ocean Model. J. Geophys. Res. Oceans, 123(2), 864-882. doi:10.1002/2017JC013251
 
-Goldberg D.N., Snow, K, Holland, P. R., Jordan, J. R., Campin, J.-M., Heimbach, P., Arthern, R., and Jenkins, A. Representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. Ocean Modelling, 125, 45-60.
+**Goldberg D.N.**, Snow, K, Holland, P. R., Jordan, J. R., Campin, J.-M., Heimbach, P., Arthern, R., and Jenkins, A. Representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. Ocean Modelling, 125, 45-60.
 
-Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., Goldberg, D.N., Nienow, P.N., and others (2019). Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience, 12(1), 22-27.
+Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., **Goldberg, D.N.**, Nienow, P.N., and others (2019). Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience, 12(1), 22-27.
 
-Goldberg, D.N., Gourmelen, N, Kimura, S, Millan, R, and Snow, K. (2019). How Accurately Should We Model Ice Shelf Melt Rates? Geophysical Research Letters, 46, 189-199.
+**Goldberg, D.N.**, Gourmelen, N, Kimura, S, Millan, R, and Snow, K. (2019). How Accurately Should We Model Ice Shelf Melt Rates? Geophysical Research Letters, 46, 189-199.
 
-Maddison J, Goldberg, D.N., and Goddard, B. Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal of Scientific Computing 41(5), C417-C445.
+Maddison J, **Goldberg, D.N.**, and Goddard, B. Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal of Scientific Computing 41(5), C417-C445.
 
