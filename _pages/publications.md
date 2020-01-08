@@ -5,7 +5,15 @@ permalink: /publications/
 author_profile: false
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.co.uk/citations?user=aBIVRPUAAAAJ&hl=en">my Google Scholar profile</a></u>, and most are avavailable for download <u><a href="https://www.research.ed.ac.uk/portal/en/persons/daniel-goldberg(31f184af-242f-446d-9a8a-e8eba59332ea).html">here</a></u> (if the link is broken, please let me know)
+
+## Non Peer Reviewed
+
+Goldberg, D N. <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing.pdf">Ice Shelf Buttressing.</a> In: <u>International Encyclopedia of Geography : Wiley</u>
+
+## Peer Reviewed
+
+
 
 Goldberg D N, D M Holland and C Schoof (2009), Grounding line movement and ice shelf buttressing in marine ice sheets. J. Geophys. Res, 114, F04026, doi:10.1029/2008JF001227.
 
