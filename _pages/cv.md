@@ -37,7 +37,7 @@ Work experience
 
 PhD Supervision
 ======
-test line
+
 | | | |
 |-|-|-|
 |__Bold Key__| Value1 |
