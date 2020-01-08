@@ -37,11 +37,11 @@ Work experience
 
 PhD Supervision
 ======
-
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
+* Donald Slater (Co-supervised) 2013-2017
+* Andrew Twelves 2017-
+* Rosie Bisset (co-supervised) 2017-
+* George Malczyk (co-supervised) 2018-
+* Tancrede Leger (co-supervised) 2018-
   
 Service 
 ======
