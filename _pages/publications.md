@@ -66,3 +66,6 @@ Goldberg D.N., Snow, K, Holland, P. R., Jordan, J. R., Campin, J.-M., Heimbach, 
 Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., Goldberg, D.N., Nienow, P.N., and others (2019). Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience, 12(1), 22-27.
 
 Goldberg, D.N., Gourmelen, N, Kimura, S, Millan, R, and Snow, K. (2019). How Accurately Should We Model Ice Shelf Melt Rates? Geophysical Research Letters, 46, 189-199.
+
+Maddison J, Goldberg, D.N., and Goddard, B. Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal of Scientific Computing 41(5), C417-C445.
+
