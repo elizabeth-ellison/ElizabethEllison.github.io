@@ -18,49 +18,36 @@ Education
 
 Work experience
 ======
-* 2001-2003
-  * Technical Associate, Credit Suisse
+* Credit Suisse
+  * Technical Associate (2001-2003)
   * Duties included: Financial Software Development, Database Development
 
-* 2004-2009
-  * Research Assistant
-  * Courant Institute of Mathematical Sciences, New York University
+* Courant Institute of Mathematical Sciences, New York University
+  * Research Assistant (2004-2009)
 
-* 2009-2011
-  * Postdoctoral Researcher
-  * Geophysical Fluid Dynamics Laboratory, Princeton
+* NOAA Geophysical Fluid Dynamics Laboratory, Princeton
+  * Postdoctoral Researcher (2009-2011)
 
-* 2011-2013
-  * NSF Postdoctoral Fellow
-  * Dept of Earth, Atmosphere and Planetary Sciences, MIT
+* Dept of Earth, Atmosphere and Planetary Sciences, MIT
+  * Postdoctoral Fellow (2011-2013)
   
-Skills
+* School of GeoSciences, University of Edinburgh
+  * Lecturer (2013-2018)
+  * Senior Lecturer (2018-)
+  
+Service 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proposal review for National Science Foundation and National Environment Resource Council, review panel for Department of Energy
+* Scientific Editor of EGU journal Geoscientific Model Development (2014 - 2018)
+* Associate Editor of Journal of Geophysical Research: Earth Surface (2019 - )
+* Organiser, Challenger Society Ocean Modelling SIG Meeting (2019)
 
-Publications
+Funding Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019: NERC Standard Grant (NE/T001607/1): QUoRUM: QUantifying and Reducing Uncertainty in Multi-Decadal projection of Ice Sheet Loss (£485K, PI)
+* 2019: NERC Standard Grant (NE/S011390/1): MII-Greenland: Meltwater Ice-sheet Interactions and the changing climate of Greenland (£800K, Co-I)
+* 2017: PROPHET - Joint NSF-NERC Thwaites Initiative (£1.57M, Co-I)
+* 2014: NERC Standard Grant (NE/M003590/1): Is ice loss from West Antarctica driven by ocean forcing or ice and ocean feedbacks? (£685K, PI)
+* 2014: EPSRC Embedded CSE: Providing the ARCHER community with adjoint modelling tools for high-performance ocean and ice sheet computation (£90K, Co-I)
+* 2011: NSF Office of Polar Programs Postdoctoral Fellowship (2011-2013)
+
