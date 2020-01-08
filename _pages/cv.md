@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Credit Suisse
-  * Technical Associate (2001-2003)
+  * Technical Associate (**2001-2003**)
   * Duties included: Financial Software Development, Database Development
 
 * Courant Institute of Mathematical Sciences, New York University
