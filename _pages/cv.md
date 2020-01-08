@@ -34,6 +34,14 @@ Work experience
 * School of GeoSciences, University of Edinburgh
   * Lecturer (**2013-2018**)
   * Senior Lecturer (**2018-**)
+
+PhD Supervision
+======
+test line
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
   
 Service 
 ======
