@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Pennsylvania 
+  * B.S.E. in Chemical Engineering (May 2001)
+* Courant Institute of Mathematical Sciences, New York University
+  * Ph.D in Atmosphere-Ocean Science and Mathematics (May 2009)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2001-2003
+  * Technical Associate, Credit Suisse
+  * Duties included: Financial Software Development, Database Development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2004-2009
+  * Research Assistant
+  * Courant Institute of Mathematical Sciences, New York University
+
+* 2009-2011
+  * Postdoctoral Researcher
+  * Geophysical Fluid Dynamics Laboratory, Princeton
+
+* 2011-2013
+  * NSF Postdoctoral Fellow
+  * Dept of Earth, Atmosphere and Planetary Sciences, MIT
   
 Skills
 ======
