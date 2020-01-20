@@ -1,17 +1,12 @@
 ---
 layout: archive
-title: 
+title: "Ice Ocean Interactions"
 permalink: /iceocean/
 author_profile: false
 ---
 
-<p align="center">
-  <img src="https://dngoldberg.github.io/files/wap.jpeg?raw=true" alt="Photo" style="width: 350px;"/>
-</p>
 
 ## Antarctic Ice Sheet-Ocean Interactions
-
-=
 
 The manner in which ice sheets and ocean interact plays an important role in the global climate. In Antarctica, this interaction is primarily through enormous floating extensions of the ice sheet called ice shelves. The ocean circulates underneath the ice shelves leading to melting and freezing. From the ocean side, this melting and freezing changes the properties of sea water, which can ultimately have impacts on the ocean's large-scale overturning circulation.
 
