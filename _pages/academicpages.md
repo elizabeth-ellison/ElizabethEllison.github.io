@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /hidden/
 title: "Daniel Goldberg, PhD"
 excerpt: "About me"
 author_profile: true
