@@ -27,6 +27,7 @@ Goldberg, D N. <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing
 
 Morrison, J and **D N Goldberg** (2012). A brief study of the force balance between a small iceberg, the ocean, sea ice, and atmosphere in the Weddell Sea. Cold Regions Science and Technology, Vol 76-77. doi:10.1016/j.coldregions.2011.10.014
 
+<a name="Little2012"></a>
 Little, C M, **D N Goldberg**, A Gnanadesikan and M Oppenheimer (2012). On the coupled response to ice-shelf basal melting. J. of Glaciology, 58 (208), pp. 203-215
 
 Pattyn, F. and others (2012). Results of the Marine Ice Sheet Model Intercomparison Project, MISMIP. The Cryosphere, 6, pp. 573-588
