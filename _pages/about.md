@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="https://dngoldber.github.io/files/ice_shot_2.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
+
 About me
 ======
 
