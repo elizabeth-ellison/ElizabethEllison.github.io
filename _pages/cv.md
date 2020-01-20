@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/maudberg.png?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
+
 Education
 ======
 * University of Pennsylvania 
