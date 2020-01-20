@@ -5,6 +5,9 @@ permalink: /iceocean/
 author_profile: false
 ---
 
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/wap.jpeg?raw=true" alt="Photo" style="width: 350px;"/>
+</p>
 
 ## Antarctic Ice Sheet-Ocean Interactions
 
