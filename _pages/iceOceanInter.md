@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ice Ocean Interactions"
+title: "Ice Sheet-Ocean Interactions"
 permalink: /iceocean/
 author_profile: false
 ---
@@ -9,7 +9,6 @@ author_profile: false
   <img src="https://dngoldberg.github.io/files/wap.jpeg?raw=true" alt="Photo" style="width: 350px;"/>
 </p>
 
-## Antarctic Ice Sheet-Ocean Interactions
 
 The manner in which ice sheets and ocean interact plays an important role in the global climate. In Antarctica, this interaction is primarily through enormous floating extensions of the ice sheet called ice shelves. The ocean circulates underneath the ice shelves leading to melting and freezing. From the ocean side, this melting and freezing changes the properties of sea water, which can ultimately have impacts on the ocean's large-scale overturning circulation.
 
@@ -25,4 +24,18 @@ Here are some helpful links explaining the above concepts:
 
 Here are a few projects I have been or am currently involved with:
 
+## Ice-Ocean Coupling
 
+---
+
+### Asynchronous coupling
+
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/asynch_couple.jpg?raw=true" alt="Photo" style="width: 350px;"/>
+</p>
+
+Coupling between land ice and ocean models is important as both land ice and sub-shelf circulation are known to influence each other. We coupled the isopycnal model [GOLD](https://www.gfdl.noaa.gov/gold-ocean-model/) to an ice-sheet model developed during my PhD to create a three-dimensional land ice-ocean model; the first such model in which ocean could affect grounded ice through submarine melting and land ice could affect ocean circulation through the sub-shelf cavity geometry. From experiments with this model, we gained a deeper understanding of the time scales and feedbacks inherent in the coupled system, and of the response of the system to perturbations in forcing. We also discovered a potential positive feedback between melt rate pattern and ice shelf margin weakening, an effect that cannot be represented by two-dimensional “flowline” models. The figure on the right shows sub-shelf melt rates where ice cavities are exposed to water of different temperature. In the warmest, warm water, made fresh by melting, flows up the ice shelf base, deflected to the left by Coriolis forces. Strong thinning in the ice shelf margin greatly decreases buttressing, which is why the grounding line has retreated so much more than in other cases.
+
+* Little, C M and D N Goldberg and A Gnanadesikan and M Oppenheimer (2012). On the coupled response to ice-shelf basal melting. J. of Glaciology, 58 (208), pp. 203-215
+* Goldberg, D N and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 1: Model description and behavior. J. Geophys. Res., 117, F02037
+* Goldberg, D N and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 2: Sensitivity to external forcings. J. Geophys. Res., 117, F02038.
