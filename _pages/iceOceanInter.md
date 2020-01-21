@@ -31,7 +31,7 @@ Here are a few projects I have been or am currently involved with:
 ### Asynchronous coupling
 
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/asynch_couple.jpg?raw=true" alt="Photo" style="width: 350px;"/>
+  <img src="https://dngoldberg.github.io/files/asynch_couple.jpg?raw=true" alt="Photo" style="width: 250px;"/>
 </p>
 
 Coupling between land ice and ocean models is important as both land ice and sub-shelf circulation are known to influence each other. We coupled the isopycnal model [GOLD](https://www.gfdl.noaa.gov/gold-ocean-model/) to an ice-sheet model developed during my PhD to create a three-dimensional land ice-ocean model; the first such model in which ocean could affect grounded ice through submarine melting and land ice could affect ocean circulation through the sub-shelf cavity geometry. From experiments with this model, we gained a deeper understanding of the time scales and feedbacks inherent in the coupled system, and of the response of the system to perturbations in forcing. We also discovered a potential positive feedback between melt rate pattern and ice shelf margin weakening, an effect that cannot be represented by two-dimensional “flowline” models. The figure on the right shows sub-shelf melt rates where ice cavities are exposed to water of different temperature. In the warmest, warm water, made fresh by melting, flows up the ice shelf base, deflected to the left by Coriolis forces. Strong thinning in the ice shelf margin greatly decreases buttressing, which is why the grounding line has retreated so much more than in other cases.
@@ -40,4 +40,5 @@ Coupling between land ice and ocean models is important as both land ice and sub
 [1](https://dngoldberg.github.io/publications#Little2012)
 [2]
 [3]
+
 
