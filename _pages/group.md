@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: "Daniel Goldberg, PhD"
-excerpt: "About me"
+title: "Research Group"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /group/
 ---
 
 <p align="center">

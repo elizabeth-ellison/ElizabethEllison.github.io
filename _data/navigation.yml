@@ -21,5 +21,8 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Group"
+    url: /group/
+
     #  - title: "Guide"
     #url: /markdown/
