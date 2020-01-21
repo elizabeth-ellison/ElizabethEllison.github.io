@@ -13,7 +13,7 @@ author_profile: false
 
 Take a look at mine and others' research activity under the following themes:
 
-### [Ice Ocean Interactions](https://dngoldberg.github.io/_pages/iceocean/)
+### [Ice Ocean Interactions](https://dngoldberg.github.io/iceocean/)
 
-### [Glaciological Inverse Modelling](https://dngoldberg.github.io/_pages/inverse/)
+### [Glaciological Inverse Modelling](https://dngoldberg.github.io/inverse/)
 
