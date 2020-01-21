@@ -32,8 +32,10 @@ Little, C M, **D N Goldberg**, A Gnanadesikan and M Oppenheimer (2012). On the c
 
 Pattyn, F. and others (2012). Results of the Marine Ice Sheet Model Intercomparison Project, MISMIP. The Cryosphere, 6, pp. 573-588
 
+<a name="Goldberg2012a"></a>
 **Goldberg, D N** and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 1: Model description and behavior. J. Geophys. Res., 117, F02037.
 
+<a name="Goldberg2012b"></a>
 **Goldberg, D N** and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 2: Sensitivity to external forcings. J. Geophys. Res., 117, F02038.
 
 Pattyn, F. and others. Grounding-line migration in plan-view marine ice-sheet models: results of the ice2sea MISMIP3d intercomparison. Accepted for publication in  Journal of Glaciology (2013).
@@ -62,10 +64,13 @@ Slater, D. A., P. W. Nienow, **D. N. Goldberg**, T. R. Cowton, and A. J. Sole (2
 
 Gourmelen, N., **Goldberg, D. N.**, Snow, K., Henley, S. F., Bingham, R. G., Kimura, S., … van de Berg, W. J. (2017). channelized melting drives thinning under a rapidly melting Antarctic ice shelf. Geophysical Research Letters, 44, 9796–9804. https://doi.org/10.1002/2017GL074929
 
+<a name="Snow2017"></a>
 Snow, K, **Goldberg D. N.**, Holland P.R., Jordan J. R., Arthern, R., and Jenkins, A. (2017) The response of ice sheets to climate variability. Accepted for publication in Geophysical Research Letters, 44(23), 11878-11885.
 
+<a name="Jordan2018"></a>
 Jordan, J. R., Holland, P. R., **Goldberg, D.N.**, Snow, K., Arthern, R., Campin, J.-M., Heimbach, P. and Jenkins, A. (2018), Ocean-Forced Ice-Shelf Thinning in a Synchronously Coupled Ice-Ocean Model. J. Geophys. Res. Oceans, 123(2), 864-882. doi:10.1002/2017JC013251
 
+<a name="Goldberg2018"></a>
 **Goldberg D.N.**, Snow, K, Holland, P. R., Jordan, J. R., Campin, J.-M., Heimbach, P., Arthern, R., and Jenkins, A. Representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. Ocean Modelling, 125, 45-60.
 
 Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., **Goldberg, D.N.**, Nienow, P.N., and others (2019). Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience, 12(1), 22-27.
