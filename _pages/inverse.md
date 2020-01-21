@@ -24,8 +24,8 @@ More recently, _hybrid models_, which retain the ease of solution of the SSA but
 </p>
 
 #### Relevant publications:
-[1](https://dngoldberg.github.io/publications#GoldbergHyb)
-[2](https://dngoldberg.github.io/publications#GoldbergHybInv)
+[1](https://www.cambridge.org/core/journals/journal-of-glaciology/article/variationally-derived-depthintegrated-approximation-to-a-higherorder-glaciological-flow-model/D7F81AD3E98D151FC66E52D272628512)
+[2](https://www.the-cryosphere.net/5/315/2011/)
 
 ---
 
@@ -33,13 +33,13 @@ More recently, _hybrid models_, which retain the ease of solution of the SSA but
 
 An adjoint model is essentially the [derivative](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant) of a model, and, as discussed above, it is enormously helpful in finding the best set of inputs to provide a desired output. There are two general ways to find the adjoint of a numerical model: (1) Starting from the continuous equations, find the adjoint to these equations and discretise, and (2) Discretise the continuous equations into computer code, and then differentiate the computer code, line by line. Historically (1) has been used for ice model inversions. (2) [has been applied extensively to ocean models](http://www.ecco-group.org/), but its use in ice sheet modelling is limited, which is unfortunate -- applying (1) to a time-dependent ice flow model is not an easy feat! On the other hand, (2) is impractical without the aid of Automatic Differentiation (AD) -- software which applies the "chain rule" of differentiation at the operation level. Examples of AD tools are [TAF](http://www.fastopt.com/products/taf/taf.shtml), [OpenAD](http://www.mcs.anl.gov/OpenAD/), and [Tapenade](https://www-sop.inria.fr/tropics/tapenade.html). Still, if care is not taken in writing the code, the AD tools will not work.
 
-AD tools have been applied to an ice-sheet model developed as part of [MITgcm](https://mitgcm.readthedocs.io/en/latest/phys_pkgs/streamice.html), and more recently with the [FEniCS](https://fenicsproject.org/) software. In a recent study these tools were used to [assimilate a decades' worth of remotely observed data](https://dngoldberg.github.io/publications#Goldberg2015) and to [assess the susceptibility of a fast flowing ice stream to ocean melt](https://dngoldberg.github.io/publications#Goldberg2019), and they are now being used as part of the [International Thwaites Initiative](https://thwaitesglacier.org/projects/prophet)
+AD tools have been applied to an ice-sheet model developed as part of [MITgcm](https://mitgcm.readthedocs.io/en/latest/phys_pkgs/streamice.html), and more recently with the [FEniCS](https://fenicsproject.org/) software. In a recent study these tools were used to assimilate a decades' worth of remotely observed data and to assess the susceptibility of a fast flowing ice stream to ocean melt, and they are now being used as part of the [International Thwaites Initiative](https://thwaitesglacier.org/projects/prophet)
 
 #### Relevant publications:
-[1](https://dngoldberg.github.io/publications#GoldbergHeim2013)
-[2](https://dngoldberg.github.io/publications#Goldberg2015)
-[3](https://dngoldberg.github.io/publications#Goldberg2016)
-[4](https://dngoldberg.github.io/publications#Goldberg2019)
+[1](https://www.the-cryosphere.net/7/1659/2013/)
+[2](https://www.the-cryosphere.net/9/2429/2015/)
+[3](https://www.geosci-model-dev.net/9/1891/2016/)
+[4](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080383)
 
 
 

@@ -1,0 +1,19 @@
+---
+layout: archive
+title: 
+permalink: /research/
+author_profile: false
+---
+
+{% include base_path %}
+
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/maudberg.png?raw=true" alt="Photo" style="width: 450px;"/>
+</p>
+
+Take a look at mine and others' research activity under the following themes:
+
+### [Ice Ocean Interactions](https://dngoldberg.github.io/_pages/iceocean/)
+
+### [Glaciological Inverse Modelling](https://dngoldberg.github.io/_pages/inverse/)
+
