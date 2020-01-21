@@ -21,8 +21,10 @@ Goldberg, D N. <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing
 
 **Goldberg D N**, D M Holland and C Schoof (2009), Grounding line movement and ice shelf buttressing in marine ice sheets. J. Geophys. Res, 114, F04026, doi:10.1029/2008JF001227.
 
+<a name="GoldbergHyb"></a>
 **Goldberg, D N** (2011). A variationally-derived, depth-integrated approximation to the Blatter/Pattyn balance. J. of Glaciology, 57, 157-170.
 
+<a name="GoldbergHybInv"></a>
 **Goldberg, D N** and O. V. Sergienko (2011). Data assimilation using a hybrid flow model. The Cryosphere, 5, 1-13.
 
 Morrison, J and **D N Goldberg** (2012). A brief study of the force balance between a small iceberg, the ocean, sea ice, and atmosphere in the Weddell Sea. Cold Regions Science and Technology, Vol 76-77. doi:10.1016/j.coldregions.2011.10.014
@@ -42,6 +44,7 @@ Pattyn, F. and others. Grounding-line migration in plan-view marine ice-sheet mo
 
 Sergienko, O V and **D N Goldberg** and C M Little. Alternative ice-shelf equilibria determined by ocean environment. Accepted for publication in Journal of Geophysical Research – Earth Surface (2013).
 
+<a name="GoldbergHeim2013"></a>
 **Goldberg, D N** and P Heimbach. Parameter and state estimation with a time-dependent adjoint marine ice sheet model. The Cryosphere, 7, 1659-1678 (2013)
 
 **Goldberg, D. N.**, C. Schoof, and O. V. Sergienko (2014), Stick-slip motion of an Antarctic Ice Stream: The eﬀects of viscoelasticity,J. Geophys. Res. Earth Surf., 119, doi:10.1002/2014JF003132.
@@ -54,8 +57,10 @@ Andrew J. Tedstone, Peter W. Nienow, Noel Gourmelen, Amaury Dehecq, **Daniel Gol
 
 K Matsuoka and 19 others (2015). Antarctic ice rises and rumples: Their properties and significance for ice-sheet dynamics and evolution. Earth-Science Reviews, Volume 150, Pages 724–745.
 
+<a name="Goldberg2015"></a>
 **D. N. Goldberg**, P. Heimbach, I. Joughin, and B. Smith (2015). Committed retreat of Smith, Pope, and Kohler Glaciers over the next 30 years inferred by transient model calibration. The Cryosphere 9, 2429-2446.
 
+<a name="Goldberg2016"></a>
 **Goldberg, D.**, Narayanan, S. H. K., Hascoet, L. & Utke, J. (2016). An optimized treatment for algorithmic differentiation of an important glaciological fixed-point problem. Geosci. Model Dev., 9, 1891-1904.
 
 Donald A. Slater, **Dan N. Goldberg**, Peter W. Nienow, and Tom R. Cowton. Scalings for Submarine Melting at Tidewater Glaciers from Buoyant Plume Theory. Journal of Physical Oceanography. 46, 6, p. 1839-1855, 2016
@@ -75,7 +80,9 @@ Jordan, J. R., Holland, P. R., **Goldberg, D.N.**, Snow, K., Arthern, R., Campin
 
 Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., **Goldberg, D.N.**, Nienow, P.N., and others (2019). Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience, 12(1), 22-27.
 
+<a name="Goldberg2019"></a>
 **Goldberg, D.N.**, Gourmelen, N, Kimura, S, Millan, R, and Snow, K. (2019). How Accurately Should We Model Ice Shelf Melt Rates? Geophysical Research Letters, 46, 189-199.
 
+<a name="Mad2019"></a>
 Maddison J, **Goldberg, D.N.**, and Goddard, B. Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal of Scientific Computing 41(5), C417-C445.
 
