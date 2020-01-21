@@ -2,7 +2,7 @@
 layout: archive
 title: "Glaciological inverse methods"
 permalink: /inverse/
-author_profile: false
+author_profile: true
 ---
 
 <p align="center">
