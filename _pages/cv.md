@@ -56,7 +56,9 @@ Service
 
 Funding Awards
 ======
+* **2020**: Newton Fund Grant SWARM: (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China), (£310K, Co-I)
 * **2019**: NERC Standard Grant (NE/T001607/1): QUoRUM: QUantifying and Reducing Uncertainty in Multi-Decadal projection of Ice Sheet Loss (£485K, PI)
+* **2019**: ESA Grant 4DAntarctica: Characterising subglacial hydrological pathways in Antarctica (€1M, Co-I)
 * **2019**: NERC Standard Grant (NE/S011390/1): MII-Greenland: Meltwater Ice-sheet Interactions and the changing climate of Greenland (£800K, Co-I)
 * **2017**: PROPHET - Joint NSF-NERC Thwaites Initiative (£1.57M, Co-I)
 * **2014**: NERC Standard Grant (NE/M003590/1): Is ice loss from West Antarctica driven by ocean forcing or ice and ocean feedbacks? (£685K, PI)
