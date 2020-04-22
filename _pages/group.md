@@ -11,7 +11,6 @@ redirect_from:
 </p>
 
 
-Under Construction...
 
 ## Current Members
 
