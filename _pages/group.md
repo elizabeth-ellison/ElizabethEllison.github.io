@@ -17,7 +17,7 @@ Under Construction...
 
 ### Funded Postdoctoral Researchers
 
-**Dr Martin Wearing**, PDRA from Feb 2020
+**Dr Martin Wearing**, PDRA from Feb 2020 <br />
 _Funding_: Jointly funded by [4DAntarctica](http://4dantarctica.enveo.at/) and [PROPHET](https://thwaitesglacier.org/projects/prophet)
 _Research_: Modelling of ice-sheet dynamics and subglacial hydrology
 [Website](https://martinwearing.com/)
