@@ -28,5 +28,5 @@ The other project is [MII-Greenland](https://gtr.ukri.org/projects?ref=NE%2FS011
 </p>
 
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/tg.gif?raw=true" style="width: 350px;"/>
+  <img src="https://dngoldberg.github.io/files/tg.gif?raw=true" style="width: 650px;"/>
 </p>
