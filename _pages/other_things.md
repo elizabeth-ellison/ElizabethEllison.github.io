@@ -39,6 +39,10 @@ Melting of ice shelves in Antarctica is not only relevant to buttressing of ice 
   <img src="https://dngoldberg.github.io/files/yager_tos.png?raw=true" title="Yager et al, Oceanography (2015)" style="width: 500px;"/>
 </p>
 
+PhD student [Andrew Twelves]() has been applying MITgcm together with BLING to a model of the ice-ocean interaction on the Antarctic continental shelf to investigate these processes. In the absence of ice-shelf melt there is almost no productivity (dashed line), because o a lack of upwelling of iron-containing CDW. Melting brings iron to the upper 100m driving much stronger productivity in the summer months (dash-dot line); while the addition of iron from melting-out of particulate greatly increases the upper ocean iron content but marginally increases productivity.
+
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/npp_comp1.png?raw=true" style="width: 400px;"/>
+  <img src="https://dngoldberg.github.io/files/npp_comp1.png?raw=true" style="width: 500px;"/>
 </p>
+
+## Mountain glaciers
