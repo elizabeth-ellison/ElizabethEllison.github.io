@@ -19,5 +19,4 @@ Take a look at mine and others' research activity under the following themes:
 
 ### [Other things](https://dngoldberg.github.io/other_things/)
 
-More to come / under construction...
 
