@@ -33,4 +33,12 @@ The other project is [MII-Greenland](https://gtr.ukri.org/projects?ref=NE%2FS011
 
 ## Ice shelves and biology
 
+Melting of ice shelves in Antarctica is not only relevant to buttressing of ice sheets, it can also provide nutrients to primary ocean producers in nutrient-limited environments. The upper ocean on the Antarctic continental shelf is low in iron, a micronutrient vital to phytoplankton growth and fixing of atmospheric carbon. Recent studies suggest that strongly melting ice shelves in the Amundsen deliver iron to light-penetrating layers, due to the induced upwelling of Circumpolar Deep Water and due to melting of iron-rich particulate entrained in the ice sheet base.
 
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/yager_tos.png?raw=true" title="Yager et al, Oceanography (2015)" style="width: 500px;"/>
+</p>
+
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/npp_comp.png?raw=true" style="width: 500px;"/>
+</p>
