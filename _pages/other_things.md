@@ -24,7 +24,7 @@ I am very lucky to be a part of two fantastic projects focussing on subglacial h
 The other project is [MII-Greenland](https://gtr.ukri.org/projects?ref=NE%2FS011390%2F1) which aims to develop state of the art supra- and subglacial hydrological components within the UKESM ice-sheet model [BISICLES](https://commons.lbl.gov/display/bisicles/BISICLES). The model will benefit from the adaptive mesh framework within BISICLES, allowing high resolution where needed. It has also given me an excuse to learn how to implement the governing subglacial hydrological equations. In the image below, the equations of [Hewitt et al 2013](https://www.sciencedirect.com/science/article/abs/pii/S0012821X13002045) have been applied to a radially symmetric ice sheet to investigate resolution effects on channels. In the .gif, a "sheet only" version of the equations has been applied to Thwaites Glacier (but assuming a constant melt rate); the sheet evolves from an initial thickness of zero over several years.
 
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/resolution_comparison_channels_6months.png?raw=true" style="width: 650px;"/>
+  <img src="https://dngoldberg.github.io/files/resolution_comparison_channels_6months.png?raw=true" style="width: 950px;"/>
 </p>
 
 <p align="center">
