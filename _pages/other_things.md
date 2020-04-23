@@ -21,12 +21,14 @@ The above image from [Tedstone et al 2015](https://www.nature.com/articles/natur
 
 I am very lucky to be a part of two fantastic projects focussing on subglacial hydrology. [4DAntarctica](http://4d-antarctica.org/) aims to characterise the subglacial environment of Antarctica. My role with postdoc [Dr Martin Wearing](https://martinwearing.com/) is to derive melt rates from frictional heating, which requires [inverse modelling](https://dngoldberg.github.io/inverse) to infer basal velocities and drag. By examining subglacial melt and transport at the continental scale, as well as focused studies on dynamic regions, we will construct a coherent picture of how water moves throughout the underside of the ice sheet, and how it impacts ice dynamics. A further aim is to identify subglaial processes relating to ice-ocean interactions, as [freshwater runoff provides a strong source of buoyancy to ice-shelf cavities](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-11-03.1).
 
-The other project is [MII-Greenland](https://gtr.ukri.org/projects?ref=NE%2FS011390%2F1) which aims to develop state of the art supra- and subglacial hydrological components within the UKESM ice-sheet model [BISICLES](https://commons.lbl.gov/display/bisicles/BISICLES). The model will benefit from the adaptive mesh framework within BISICLES, allowing high resolution where needed. It has also given me an excuse to learn how to implement the governing subglacial hydrological equations.
+The other project is [MII-Greenland](https://gtr.ukri.org/projects?ref=NE%2FS011390%2F1) which aims to develop state of the art supra- and subglacial hydrological components within the UKESM ice-sheet model [BISICLES](https://commons.lbl.gov/display/bisicles/BISICLES). The model will benefit from the adaptive mesh framework within BISICLES, allowing high resolution where needed. It has also given me an excuse to learn how to implement the governing subglacial hydrological equations. In the image below, the equations of [Hewitt et al 2013](https://www.sciencedirect.com/science/article/abs/pii/S0012821X13002045) have been applied to a radially symmetric ice sheet to investigate resolution effects on channels. In the .gif, a "sheet only" version of the equations has been applied to Thwaites Glacier (but assuming a constant melt rate); the sheet evolves from an initial thickness of zero over several years.
 
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/resolution_comparison_channels_6months.png?raw=true" style="width: 350px;"/>
+  <img src="https://dngoldberg.github.io/files/resolution_comparison_channels_6months.png?raw=true" style="width: 650px;"/>
 </p>
 
 <p align="center">
   <img src="https://dngoldberg.github.io/files/tg.gif?raw=true" style="width: 650px;"/>
 </p>
+
+
