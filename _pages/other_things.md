@@ -40,5 +40,5 @@ Melting of ice shelves in Antarctica is not only relevant to buttressing of ice 
 </p>
 
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/npp_comp.png?raw=true" style="width: 400px;"/>
+  <img src="https://dngoldberg.github.io/files/npp_comp1.png?raw=true" style="width: 400px;"/>
 </p>
