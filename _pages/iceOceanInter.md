@@ -38,9 +38,9 @@ Coupling between land ice and ocean models is important as both land ice and sub
 
 #### Relevant publications:
 
-[1](https://www.cambridge.org/core/journals/journal-of-glaciology/article/on-the-coupled-response-to-iceshelf-basal-melting/CC01552683DBB5F8665049F0373087EA)
-[2](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002246)
-[3](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002247)
+[Little et al 2012](https://www.cambridge.org/core/journals/journal-of-glaciology/article/on-the-coupled-response-to-iceshelf-basal-melting/CC01552683DBB5F8665049F0373087EA)
+[Goldberg et al 2012a](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002246)
+[Goldberg et al 2012b](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002247)
 
 ### Synchronous coupling
 
@@ -60,8 +60,8 @@ Synchronous coupling addresses these issues. The schematic above from (Jordan et
 
 #### Relevant publications:
 
-[1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013251)
-[2](https://www.sciencedirect.com/science/article/pii/S1463500318301021)
+[Jordan et al 2018](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013251)
+[Goldberg et al 2018](https://www.sciencedirect.com/science/article/pii/S1463500318301021)
 
 
 ---
@@ -78,7 +78,7 @@ In (Snow et al (2017), the synchronously coupled model described above was appli
 
 #### Relevant publications:
 
-[1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075745)
+[Snow et al 2017](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075745)
 
 
 

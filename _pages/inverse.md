@@ -24,8 +24,8 @@ More recently, _hybrid models_, which retain the ease of solution of the SSA but
 </p>
 
 #### Relevant publications:
-[1](https://www.cambridge.org/core/journals/journal-of-glaciology/article/variationally-derived-depthintegrated-approximation-to-a-higherorder-glaciological-flow-model/D7F81AD3E98D151FC66E52D272628512)
-[2](https://www.the-cryosphere.net/5/315/2011/)
+[Goldberg 2011](https://www.cambridge.org/core/journals/journal-of-glaciology/article/variationally-derived-depthintegrated-approximation-to-a-higherorder-glaciological-flow-model/D7F81AD3E98D151FC66E52D272628512)
+[Goldberg and Sergienko 2011](https://www.the-cryosphere.net/5/315/2011/)
 
 ---
 
@@ -36,10 +36,10 @@ An adjoint model is essentially the [derivative](https://en.wikipedia.org/wiki/J
 AD tools have been applied to an ice-sheet model developed as part of [MITgcm](https://mitgcm.readthedocs.io/en/latest/phys_pkgs/streamice.html), and more recently with the [FEniCS](https://fenicsproject.org/) software. In a recent study these tools were used to assimilate a decades' worth of remotely observed data and to assess the susceptibility of a fast flowing ice stream to ocean melt, and they are now being used as part of the [International Thwaites Initiative](https://thwaitesglacier.org/projects/prophet)
 
 #### Relevant publications:
-[1](https://www.the-cryosphere.net/7/1659/2013/)
-[2](https://www.the-cryosphere.net/9/2429/2015/)
-[3](https://www.geosci-model-dev.net/9/1891/2016/)
-[4](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080383)
+[Goldberg and Heimbach 2013](https://www.the-cryosphere.net/7/1659/2013/)
+[Goldberg et al 2015](https://www.the-cryosphere.net/9/2429/2015/)
+[Goldberg et al 2016](https://www.geosci-model-dev.net/9/1891/2016/)
+[Goldberg et al 2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080383)
 
 
 
