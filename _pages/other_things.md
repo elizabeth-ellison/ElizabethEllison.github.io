@@ -17,4 +17,8 @@ There is extensive water at the base of ice sheets, in some cases produced by dr
   <img src="https://dngoldberg.github.io/files/tedstone.png?raw=true" title="Tedstone et al 2015 (Nature)" style="width: 350px;"/>
 </p>
 
-The above image from Tedstone et al 
+The above image from [Tedstone et al 2015](https://www.nature.com/articles/nature15722) shows how complicated the dynamics of subglacial hydrology are. Focussing on a large, land-terminating sector in southwest Greenland, the study shows that despite supraglacial melt increases, which suggest [high speeds in the spring and summer](https://science.sciencemag.org/content/297/5579/218), annually-averaged velocity has decreased. This is because the same influx of water which leads to those high speeds causes a more efficient drainage system, which slows down the ice sheet in the late autumn and winter -- and the increased slowdown has a stronger effect.
+
+I am very lucky to be a part of two fantastic projects focussing on subglacial hydrology. [4DAntarctica]() aims to characterise the subglacial environment of Antarctica. My role with postdoc [Dr Martin Wearing](https://martinwearing.com/) is to derive melt rates from frictional heating, which requires [inverse modelling](https://dngoldberg.github.io/inverse) to infer basal velocities and drag. By examining subglacial melt and transport at the continental scale, as well as focused studies on dynamic regions, we will construct a coherent picture of how water moves throughout the underside of the ice sheet, and how it impacts ice dynamics. A further aim is to identify subglaial processes relating to ice-ocean interactions, as [freshwater runoff provides a strong source of buoyancy to ice-shelf cavities](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-11-03.1).
+
+
