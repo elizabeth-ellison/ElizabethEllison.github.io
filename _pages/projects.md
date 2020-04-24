@@ -6,7 +6,6 @@ redirect_from:
   - /projects/
 ---
 
-4dant.tiff		Thwaites_PROPHET.jpg	mouline.jpg		oggm.tiff		quorumpic.png
 
 Here is what I spend my time on when I'm not teaching, navel-gazing, or doing things that have nothing to do with academia...
 
