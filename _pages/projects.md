@@ -1,6 +1,6 @@
 ---
 permalink: /projects
-title: "Funded Projects"
+title: "Current funded Projects"
 author_profile: true
 redirect_from: 
   - /projects/
