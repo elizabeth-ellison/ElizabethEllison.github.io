@@ -26,11 +26,20 @@ text text text
 
 text text text
 
+
+<br />
+<br />
+<br />
+
 ## [4DAntarctica](http://4d-antarctica.org/)
 
 <img align="left" width="150" height="150" src="https://dngoldberg.github.io/files/proj_images/4dant.png">
 
 text text text
+
+<br />
+<br />
+<br />
 
 ## MII-Greenland (Meltwater-ice sheet interactions and the changing climate of Greenland )
 
@@ -38,8 +47,13 @@ text text text
 
 text text text
 
+<br />
+<br />
+<br />
+
 ## SWARM (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China)
 
 <img align="left" width="100" height="100" src="https://dngoldberg.github.io/files/proj_images/oggm.png">
 
 text text text
+
