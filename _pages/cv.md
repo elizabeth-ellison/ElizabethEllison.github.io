@@ -45,12 +45,13 @@ PhD Supervision
 * Andrew Twelves 2017-
 * Rosie Bisset (co-supervised) 2017-
 * George Malczyk (co-supervised) 2018-
-* Tancrede Leger (co-supervised) 2018-
+* Helen Ockenden (co-supervised) 2019-
+* Hannah Bischof 2020-
   
 Service 
 ======
 * Scientific Editor of EGU journal Geoscientific Model Development (**2014 - 2018**)
-* Associate Editor of Journal of Geophysical Research: Earth Surface (**2019 - **)
+* Associate Editor of Journal of Geophysical Research: Earth Surface (**2019** - )
 * Organiser, Challenger Society Ocean Modelling SIG Meeting (**2019**)
 * Proposal review for National Science Foundation and National Environment Resource Council, review panel for Department of Energy
 
