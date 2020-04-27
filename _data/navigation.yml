@@ -24,5 +24,8 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "Projects"
+    url: /projects/
+
     #  - title: "Guide"
     #url: /markdown/
