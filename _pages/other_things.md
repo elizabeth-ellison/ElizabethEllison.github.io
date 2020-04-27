@@ -47,12 +47,12 @@ PhD student [Andrew Twelves](https://blogs.ed.ac.uk/andrewtwelves/) has been app
 
 ## Mountain glaciers
 
-Though my background is in numerical simulations of marine ice sheets during my time in Edinburgh I've been pulled into studies of glacier dynamics in High Mountain Asia, something I have truly enjoyed. Through cosupervision of PhD student Rosie Bisset I've learned quite a bit about debris-covered glaciers. For teaching I have written a python script using the tkinter package to examine temperature fluctuations in response to diurnal climate variations based on Nicholson and Benn (2006); feel free to download it: </b >
-[script](https://dngoldberg.github.io/files/ThermApp.py)</b >
+Though my background is in numerical simulations of marine ice sheets during my time in Edinburgh I've been pulled into studies of glacier dynamics in High Mountain Asia, something I have truly enjoyed. Through cosupervision of PhD student Rosie Bisset I've learned quite a bit about debris-covered glaciers. For teaching I have written a python script using the tkinter package to examine temperature fluctuations in response to diurnal climate variations based on Nicholson and Benn (2006); feel free to download it: <br />
+[script](https://dngoldberg.github.io/files/ThermApp.py)<br />
 [instructions](https://dngoldberg.github.io/files/manual.pdf)
 <p align="center">
   <img src="https://dngoldberg.github.io/files/manual_fig.png?raw=true" style="width: 300px;"/>
 </p>
 More recently [Amaury Dehecq](https://adehecq.github.io/) included me in a [fantastic paper](https://www.nature.com/articles/s41561-018-0271-9) which uses a wealth of remote sensing data to give insight into the basal properties of glaciers from velocity response to thinning over a large number of glaciers. 
 
-Currently I am a co-investigator on the [CSSP China](https://www.metoffice.gov.uk/research/approach/collaboration/newton/cssp-china/index) project SWARM (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China). In this project improved climate projections of the 21st century over East Asia will be downscaled and used to drive a model of glacier evolution to project runoff and glacier loss. The model we will use is the Open Global Glacier Model ([oggm](oggm.org)). 
+Currently I am a co-investigator on the [CSSP China](https://www.metoffice.gov.uk/research/approach/collaboration/newton/cssp-china/index) project SWARM (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China). In this project improved climate projections of the 21st century over East Asia will be downscaled and used to drive a model of glacier evolution to project runoff and glacier loss. It is quite an interesting project given the importance of Asian glaciers to water security in the region. The model we will use is the Open Global Glacier Model ([oggm](oggm.org)). oggm is a very powerful code, developed in python, which allows the user to quickly process data and generate simulations for large numbers of glaciers, and the developers are incrediby helpful -- the more I learn about it, the more I like it! 
