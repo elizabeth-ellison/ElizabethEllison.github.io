@@ -51,8 +51,8 @@ Though my background is in numerical simulations of marine ice sheets during my 
 [script](https://dngoldberg.github.io/files/ThermApp.py)
 [instructions](https://dngoldberg.github.io/files/manual.pdf)
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/manual_fig.png?raw=true" style="width: 500px;"/>
+  <img src="https://dngoldberg.github.io/files/manual_fig.png?raw=true" style="width: 300px;"/>
 </p>
 More recently [Amaury Dehecq](https://adehecq.github.io/) included me in a [fantastic paper](https://www.nature.com/articles/s41561-018-0271-9) which uses a wealth of remote sensing data to give insight into the basal properties of glaciers from velocity response to thinning over a large number of glaciers. 
 
-Currently I am a co-investigator on the CSSP China project SWARM 
+Currently I am a co-investigator on the [CSSP China](https://www.metoffice.gov.uk/research/approach/collaboration/newton/cssp-china/index) project SWARM (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China). In this project improved climate projections of the 21st century over East Asia will be downscaled and used to drive a model of glacier evolution to project runoff and glacier loss. The model we will use is the Open Global Glacier Model ([oggm](oggm.org)). 
