@@ -22,9 +22,9 @@ PROPHET is a jointly NSF-NERC funded project, part of the International Thwaites
 
 ## QUoRUM (QUantifying and Reducing Uncertainty in Multi-Decadal Projection of Ice Sheet-Sea Level Contribution)
 
-<img align="left" width="200" height="200" src="https://dngoldberg.github.io/files/proj_images/quorumpic.png">
+<img align="left" width="200" height="275" src="https://dngoldberg.github.io/files/proj_images/quorumpic.png">
 
-text text text
+QUoRUM is an Edinburgh-led NERC Standard Grant devoted to characterising uncertainty in ice-sheet model projections. The uncertainty in ice-sheet models associated with initialisation, and how this uncertainty propagates within projections, is largely unconstrained and yet is a [leading source of uncertainty in century-scale Antarctic ice-sheet simulations](https://www.the-cryosphere.net/13/1441/2019/). This project makes use of sophisticated computational tools for [PDE-solving](fenicsproject.org) and [automatic differentiation](https://github.com/jrmaddison/tlm_adjoint) together with methodologies for quantifying uncertainty of parameter sets in order to quantify uncertainty in ice-sheet predictions, to understand how it grows over time, and to hopefully identify the leading sources of uncertainty to inform future observing missions.
 
 
 <br />
