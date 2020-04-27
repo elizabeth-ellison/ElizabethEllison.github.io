@@ -13,7 +13,7 @@ Here is what I spend my time on when I'm not teaching, navel-gazing, or doing th
 
 <img style="float:left; padding-right:10px"  width="100" height="100" src="https://dngoldberg.github.io/files/proj_images/Thwaites_PROPHET.jpg">
 
-text text text
+PROPHET is a jointly NSF-NERC funded project, part of the International Thwaites Glacier Collaboration. It is led by Northumbria University and University of California-Irvine, with co-investigators in Ediburgh, Grenoble and MIT. The aim of PROPHET is to predict the future evolution of Thwaites Glacier, in Western Antarctica, using state-of-the-art ice and ocean modelling informed by accurate and extensive observational data.
 
 <br />
 <br />
