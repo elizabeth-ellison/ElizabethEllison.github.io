@@ -46,3 +46,13 @@ PhD student [Andrew Twelves](https://blogs.ed.ac.uk/andrewtwelves/) has been app
 </p>
 
 ## Mountain glaciers
+
+Though my background is in numerical simulations of marine ice sheets during my time in Edinburgh I've been pulled into studies of glacier dynamics in High Mountain Asia, something I have truly enjoyed. Through cosupervision of PhD student Rosie Bisset I've learned quite a bit about debris-covered glaciers. For teaching I have written a python script using the tkinter package to examine temperature fluctuations in response to diurnal climate variations based on Nicholson and Benn (2006); feel free to download it:
+[script](https://dngoldberg.github.io/files/ThermApp.py)
+[instructions](https://dngoldberg.github.io/files/manual.pdf)
+<p align="center">
+  <img src="https://dngoldberg.github.io/files/manual_fig.png?raw=true" style="width: 500px;"/>
+</p>
+More recently [Amaury Dehecq](https://adehecq.github.io/) included me in a [fantastic paper](https://www.nature.com/articles/s41561-018-0271-9) which uses a wealth of remote sensing data to give insight into the basal properties of glaciers from velocity response to thinning over a large number of glaciers. 
+
+Currently I am a co-investigator on the CSSP China project SWARM 
