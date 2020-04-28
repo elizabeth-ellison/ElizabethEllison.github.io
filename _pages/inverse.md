@@ -39,7 +39,8 @@ AD tools have been applied to an ice-sheet model developed as part of [MITgcm](h
 [Goldberg and Heimbach 2013](https://www.the-cryosphere.net/7/1659/2013/)<br />
 [Goldberg et al 2015](https://www.the-cryosphere.net/9/2429/2015/)<br />
 [Goldberg et al 2016](https://www.geosci-model-dev.net/9/1891/2016/)<br />
-[Goldberg et al 2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080383)
+[Goldberg et al 2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080383)<br />
+Maddison, Goldberg and Goddard 2019
 
 
 
