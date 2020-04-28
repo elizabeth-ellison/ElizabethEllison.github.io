@@ -63,7 +63,7 @@ K Matsuoka and 19 others (2015). Antarctic ice rises and rumples: Their properti
 <a name="Goldberg2016"></a>
 **Goldberg, D.**, Narayanan, S. H. K., Hascoet, L. & Utke, J. (2016). An optimized treatment for algorithmic differentiation of an important glaciological fixed-point problem. Geosci. Model Dev., 9, 1891-1904.
 
-Donald A. Slater, **Dan N. Goldberg**, Peter W. Nienow, and Tom R. Cowton. Scalings for Submarine Melting at Tidewater Glaciers from Buoyant Plume Theory. Journal of Physical Oceanography. 46, 6, p. 1839-1855, 2016
+Donald A. Slater, **Dan N. Goldberg**, Peter W. Nienow, and Tom R. Cowton (2016). Scalings for Submarine Melting at Tidewater Glaciers from Buoyant Plume Theory. Journal of Physical Oceanography. 46, 6, p. 1839-1855, 2016
 
 Slater, D. A., P. W. Nienow, **D. N. Goldberg**, T. R. Cowton, and A. J. Sole (2017), A model for tidewater glacier undercutting by submarine melting, Geophys. Res. Lett., 44, 2360–2368, doi:10.1002/2016GL072374.
 
@@ -76,7 +76,7 @@ Snow, K, **Goldberg D. N.**, Holland P.R., Jordan J. R., Arthern, R., and Jenkin
 Jordan, J. R., Holland, P. R., **Goldberg, D.N.**, Snow, K., Arthern, R., Campin, J.-M., Heimbach, P. and Jenkins, A. (2018), Ocean-Forced Ice-Shelf Thinning in a Synchronously Coupled Ice-Ocean Model. J. Geophys. Res. Oceans, 123(2), 864-882. doi:10.1002/2017JC013251
 
 <a name="Goldberg2018"></a>
-**Goldberg D.N.**, Snow, K, Holland, P. R., Jordan, J. R., Campin, J.-M., Heimbach, P., Arthern, R., and Jenkins, A. Representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. Ocean Modelling, 125, 45-60.
+**Goldberg D.N.**, Snow, K, Holland, P. R., Jordan, J. R., Campin, J.-M., Heimbach, P., Arthern, R., and Jenkins, A. (2016). Representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. Ocean Modelling, 125, 45-60.
 
 Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., **Goldberg, D.N.**, Nienow, P.N., and others (2019). Twenty-first century glacier slowdown driven by mass loss in High Mountain Asia. Nature Geoscience, 12(1), 22-27.
 
