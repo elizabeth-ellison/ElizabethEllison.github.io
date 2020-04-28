@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://dngoldberg.github.io/files/ice_shot_2.jpg?raw=true" alt="Photo" style="width: 150px;"/>
+  <img src="https://dngoldberg.github.io/files/maudberg.png?raw=true" alt="Photo" style="width: 150px;"/>
 </p>
 
 
