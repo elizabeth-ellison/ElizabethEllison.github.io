@@ -41,7 +41,7 @@ MII-Greenland is a Lancaster-led NERC Standard Grant which seeks to create a com
 
 ## SWARM (Impacts Assessment to Support WAter Resources Management and Climate Change Adaptation for China)
 
-<img style="float:left; padding-right:10px"  width="100" height="100" src="https://dngoldberg.github.io/files/proj_images/oggm.png">
+<img style="float:left; padding-right:10px"  width="100" height="100" src="https://dngoldberg.github.io/files/proj_images/oggm.png" title="Maussion et al 2019">
 
 SWARM is a project within the [CSSP China](https://www.metoffice.gov.uk/research/approach/collaboration/newton/cssp-china/index) program, a joint BEIS/Newton Fund effort which aims to accelerate climate science reserch programmes to underpin development of climate services that help build resilience to climate vulnerability. SWARM aims to provide an integrated assessment of current water resources and potential future changes in China. My role is to lead the glacier-modelling component, assessing the effect of climate change on glacier retreat and the associated hydrological impacts.
 
