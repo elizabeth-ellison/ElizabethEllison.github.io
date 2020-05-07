@@ -88,3 +88,6 @@ Maddison J, **Goldberg, D.N.**, and Goddard, B. (2019). Automated calculation of
 
 <a name="mismipplus"></a>
 Cornford, S and others. Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+). The Cryosphere Discussions, 2020.
+
+<a name="bisset2020"></a>
+Rosie Bisset, Amaury Dehecq, **Daniel Goldberg**, Matthias Huss, Robert Bingham, Noel Gourmelen (2020). Reversed surface-mass-balance gradients on Himalayan debris-covered glaciers inferred from remote sensing. Accepted for Publication in MDPI-Remote Sensing.
