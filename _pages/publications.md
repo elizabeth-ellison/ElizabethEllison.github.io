@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.uk/citati
 
 ## Non Peer Reviewed
 
-Goldberg, D N. <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing.pdf">Ice Shelf Buttressing.</a> In: <u>International Encyclopedia of Geography : Wiley</u>
+**Goldberg, D N.** <a href="https://dngoldberg.github.io/files/ice_shelf_buttressing.pdf">Ice Shelf Buttressing.</a> In: <u>International Encyclopedia of Geography : Wiley</u>
 
 **Goldberg, D N** , Smith, T, Narayanan, S H K, Heimbach, P, Morlighem, M (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive. https://www.essoar.org/pdfjs/10.1002/essoar.10503016.2 doi:10.1002/essoar.10503016.2
 
