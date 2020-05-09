@@ -38,8 +38,8 @@ Coupling between land ice and ocean models is important as both land ice and sub
 
 #### Relevant publications:
 
-[Little et al 2012](https://www.cambridge.org/core/journals/journal-of-glaciology/article/on-the-coupled-response-to-iceshelf-basal-melting/CC01552683DBB5F8665049F0373087EA)
-[Goldberg et al 2012a](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002246)
+[Little et al 2012](https://www.cambridge.org/core/journals/journal-of-glaciology/article/on-the-coupled-response-to-iceshelf-basal-melting/CC01552683DBB5F8665049F0373087EA) <br />
+[Goldberg et al 2012a](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002246)<br />
 [Goldberg et al 2012b](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JF002247)
 
 ### Synchronous coupling
@@ -60,7 +60,7 @@ Synchronous coupling addresses these issues. The schematic above from (Jordan et
 
 #### Relevant publications:
 
-[Jordan et al 2018](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013251)
+[Jordan et al 2018](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JC013251) <br />
 [Goldberg et al 2018](https://www.sciencedirect.com/science/article/pii/S1463500318301021)
 
 
