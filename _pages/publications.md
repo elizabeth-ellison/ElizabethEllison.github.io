@@ -42,7 +42,7 @@ Pattyn, F. and others (2012). Results of the Marine Ice Sheet Model Intercompari
 
 Pattyn, F. and others. Grounding-line migration in plan-view marine ice-sheet models: results of the ice2sea MISMIP3d intercomparison. Accepted for publication in  Journal of Glaciology (2013).
 
-Sergienko, O V and **D N Goldberg** and C M Little. Alternative ice-shelf equilibria determined by ocean environment. Accepted for publication in Journal of Geophysical Research – Earth Surface (2013).
+Sergienko, O. V., **Goldberg, D. N.**, and Little, C. M. (2013), Alternative ice shelf equilibria determined by ocean environment, J. Geophys. Res. Earth Surf., 118, 970– 981
 
 <a name="GoldbergHeim2013"></a>
 **Goldberg, D N** and P Heimbach. Parameter and state estimation with a time-dependent adjoint marine ice sheet model. The Cryosphere, 7, 1659-1678 (2013)
