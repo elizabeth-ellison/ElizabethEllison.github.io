@@ -40,7 +40,7 @@ Pattyn, F. and others (2012). Results of the Marine Ice Sheet Model Intercompari
 <a name="Goldberg2012b"></a>
 **Goldberg, D N** and C M Little and O Sergienko and A Gnanadesikan and R Hallberg and M Oppenheimer (2012). Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 2: Sensitivity to external forcings. J. Geophys. Res., 117, F02038.
 
-Pattyn, F. and others. Grounding-line migration in plan-view marine ice-sheet models: results of the ice2sea MISMIP3d intercomparison. Accepted for publication in  Journal of Glaciology (2013).
+Pattyn, F. and others. Grounding-line migration in plan-view marine ice-sheet models: Results of the ice2sea MISMIP3d intercomparison. Journal of Glaciology, 59(215), 410-422.  
 
 Sergienko, O. V., **Goldberg, D. N.**, and Little, C. M. (2013), Alternative ice shelf equilibria determined by ocean environment, J. Geophys. Res. Earth Surf., 118, 970– 981
 
