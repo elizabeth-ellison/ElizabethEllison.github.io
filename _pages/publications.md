@@ -87,7 +87,7 @@ Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., **Goldberg, D.N.**, Nienow, P.
 Maddison J, **Goldberg, D.N.**, and Goddard, B. (2019). Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal of Scientific Computing 41(5), C417-C445.
 
 <a name="mismipplus"></a>
-Cornford, S and others. Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+). The Cryosphere Discussions, 2020.
+Cornford, S and others. Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+). Accepted for publication in The Cryosphere, 2020. (doi:10.5194/tc-2019-326)
 
 <a name="bisset2020"></a>
 Rosie Bisset, Amaury Dehecq, **Daniel Goldberg**, Matthias Huss, Robert Bingham, Noel Gourmelen (2020). Reversed surface-mass-balance gradients on Himalayan debris-covered glaciers inferred from remote sensing. Accepted for Publication in MDPI-Remote Sensing.
