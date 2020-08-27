@@ -87,7 +87,10 @@ Dehecq, A, Gourmelen, N, Gardner, A.S., Brun, F., **Goldberg, D.N.**, Nienow, P.
 Maddison J, **Goldberg, D.N.**, and Goddard, B. (2019). Automated calculation of higher order partial differential equation constrained derivative information. SIAM Journal of Scientific Computing 41(5), C417-C445.
 
 <a name="mismipplus"></a>
-Cornford, S and others. Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+). Accepted for publication in The Cryosphere, 2020. (doi:10.5194/tc-2019-326)
+Cornford, S and others (2020). Results of the third Marine Ice Sheet Model Intercomparison Project (MISMIP+). The Cryosphere, 14, 2283–2301. (doi:10.5194/tc-2019-326)
 
 <a name="bisset2020"></a>
-Rosie Bisset, Amaury Dehecq, **Daniel Goldberg**, Matthias Huss, Robert Bingham, Noel Gourmelen (2020). Reversed surface-mass-balance gradients on Himalayan debris-covered glaciers inferred from remote sensing. Accepted for Publication in MDPI-Remote Sensing.
+Rosie Bisset, Amaury Dehecq, **Daniel Goldberg**, Matthias Huss, Robert Bingham, Noel Gourmelen (2020). Reversed surface-mass-balance gradients on Himalayan debris-covered glaciers inferred from remote sensing. MDPI-Remote Sensing, 12(10), 1563, doi:10.3390/rs12101563.
+
+<a name="Eigg Bone"></a>
+Panciroli, E., Funston, G., Holwerda, F., GeoZentrum, N., Maidment, S., Foffa, D., Larkin, N., Challands, T., Depolo, P., Goldberg, D., Humpage, M., Ross, D. A., Wilkinson, M. & Brusatte, S (2020). First dinosaur from the Isle of Eigg (Valtos Sandstone Formation, Middle Jurassic) Scotland. Accepted in Earth and environmental science transactions of the royal society of edinburgh.
