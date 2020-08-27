@@ -37,13 +37,15 @@ Work experience
   
 * School of GeoSciences, University of Edinburgh
   * Lecturer (**2013-2018**)
-  * Senior Lecturer (**2018-**)
+  * Senior Lecturer (**2018-2020**)
+  * Reader (**2020-**)
 
 PhD Supervision
 ======
 * Donald Slater (Co-supervised) 2013-2017
 * Andrew Twelves 2017-
 * Rosie Bisset (co-supervised) 2017-
+* Tancrede Leger (co-supervised) 2018-
 * George Malczyk (co-supervised) 2018-
 * Helen Ockenden (co-supervised) 2019-
 * Hannah Bischof 2020-
