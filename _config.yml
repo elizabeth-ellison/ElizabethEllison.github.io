@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Elizabeth Ellison"
 title_separator          : "-"
-name                     : &name "Daniel Goldberg"
+name                     : &name "Elizabeth Ellison"
 description              : &description "personal description"
 url                      : https://ElizabethEllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dngoldberg/dngoldberg.github.io"
+repository               : "ElizabethEllison.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "elizabeth ellison"
   avatar           : "profile2.png"
-  bio              : "Computational glaciologist and fluid dynamicist; nice guy"
-  location         : "Edinburgh GB"
+  bio              : "Oceanographer playing around with making a website"
+  location         : "London"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?user=aBIVRPUAAAAJ&hl=en"
-  email            : dan.goldberg@ed.ac.uk
+  googlescholar    : #""
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dngoldberg"
+  github           : #"dngoldberg"
   google_plus      :
   keybase          :
   instagram        :
