@@ -11,7 +11,7 @@ title                    : "Elizabeth Ellison"
 title_separator          : "-"
 name                     : &name "Daniel Goldberg"
 description              : &description "personal description"
-url                      : https://dngoldberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ElizabethEllison.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dngoldberg/dngoldberg.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Goldberg"
+  name             : "elizabeth ellison"
   avatar           : "profile2.png"
   bio              : "Computational glaciologist and fluid dynamicist; nice guy"
   location         : "Edinburgh GB"
